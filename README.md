@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tavva Pallavi</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img src="https://media1.giphy.com/media/2rjsiAfUxEZNsGzv76/giphy.gif?cid=6c09b9527juviqjap9ma9847uaf2p1hs5ms5wwpnwramqpj4&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" alt="coding" width="400">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fsoftware-engineering-gifs&psig=AOvVaw3TsqBlzz2L1JFYTGSe_T0F&ust=1758125879583000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJjjw8PX3Y8DFQAAAAAdAAAAABAE" align="right" alt="coding" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tavvapallavi&label=Profile%20views&color=0e75b6&style=flat" alt="tavvapallavi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tavvapallavi" alt="tavvapallavi" /></a> </p>
