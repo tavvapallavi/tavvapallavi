@@ -29,12 +29,6 @@
 </p>
 
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tavvapallavi&show_icons=true&theme=default" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavvapallavi&layout=compact" alt="Top languages" height="170" />
-</p>
 
 
 
